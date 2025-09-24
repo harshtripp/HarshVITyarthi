@@ -1,0 +1,4 @@
+This project is a simple Java SE project. Use Eclipse or javac to compile.
+Example compile:
+  javac -d out src/edu/ccrm/cli/MainMenu.java
+  java -cp out edu.ccrm.cli.MainMenu
